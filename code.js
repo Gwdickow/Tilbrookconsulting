@@ -85,7 +85,7 @@ const COLUMNS = Object.freeze({
   PDF_LINK: 64,
   GMAIL_DRAFT_STATUS: 65,
   LAST_UPDATED: 66,
-  ERROR_NOTES: 1567,
+  ERROR_NOTES: 67,
 /**
 *
   BUSINESS_NAME: 1,
