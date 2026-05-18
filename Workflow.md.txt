@@ -1,0 +1,20 @@
+Tilbrook Consulting Customer Brief Generator Workflow
+
+1. User enters prospect information into Google Sheets.
+2. User changes Status column to "Ready".
+3. Script processes all rows marked "Ready".
+4. Script gathers row data including:
+   - Business Name
+   - Contact Name
+   - Email
+   - Industry
+   - Location
+   - Website
+   - Business Notes
+   - Growth Challenges
+   - Offer Angle
+5. Script generates a one-page Growth Opportunity Snapshot.
+6. Script creates a Google Doc.
+7. Script saves the Google Doc link back to the row.
+8. Script updates Status to "Brief Created".
+9. If there is an error, script updates Status to "Error" and writes notes in Error Notes.
