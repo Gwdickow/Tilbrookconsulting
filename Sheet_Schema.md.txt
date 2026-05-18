@@ -1,0 +1,17 @@
+Spreadsheet columns:
+
+A - Business Name
+B - Owner / Contact Name
+C - Email
+D - Industry
+E - Location
+F - Website
+G - Business Notes
+H - Growth Challenges
+I - Offer Angle
+J - Status
+K - Google Doc Link
+L - PDF Link
+M - Gmail Draft Status
+N - Last Updated
+O - Error Notes
