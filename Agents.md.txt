@@ -1,0 +1,21 @@
+You are helping build a Google Apps Script workflow for Tilbrook Consulting.
+
+Project goal:
+Build a Google Sheets-driven customer brief generator.
+
+Primary workflow:
+- Read customer/prospect rows from Google Sheets.
+- Only process rows where Status = "Ready".
+- Generate a one-page Growth Opportunity Snapshot.
+- Create a Google Doc.
+- Write the Google Doc link back to the sheet.
+- Optionally export a PDF.
+- Optionally create a Gmail draft.
+- Never automatically send emails.
+- Never overwrite existing briefs unless explicitly instructed.
+
+Tone for generated briefs:
+Consultative, practical, respectful, specific, and not overly salesy.
+
+Audience:
+Small business owners and managers who may be interested in growth, AI visibility, customer connection strategies, and local business development.
