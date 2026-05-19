@@ -86,6 +86,7 @@ const COLUMNS = Object.freeze({
   GMAIL_DRAFT_STATUS: 65,
   LAST_UPDATED: 66,
   ERROR_NOTES: 67,
+});
 /**
 *
   BUSINESS_NAME: 1,
